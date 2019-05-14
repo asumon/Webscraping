@@ -10,4 +10,4 @@ I used selenium to scrap some listings from freelance.com.
 
 ###Resources for BeautifulSoup (Not Used)
 
-*[Beautiful Soup Documentation] (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [Beautiful Soup Documentation] (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
